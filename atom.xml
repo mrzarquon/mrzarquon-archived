@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Angrydome]]></title>
+  <link href="http://angrydome.org/atom.xml" rel="self"/>
+  <link href="http://angrydome.org/"/>
+  <updated>2014-09-27T18:53:04-07:00</updated>
+  <id>http://angrydome.org/</id>
+  <author>
+    <name><![CDATA[Chris Barker]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Example Test]]></title>
+    <link href="http://angrydome.org/blog/2014/09/27/example-test/"/>
+    <updated>2014-09-27T18:52:05-07:00</updated>
+    <id>http://angrydome.org/blog/2014/09/27/example-test</id>
+    <content type="html"><![CDATA[<p>this may be the only actual post to exist on this site.</p>
+]]></content>
+  </entry>
+  
+</feed>
