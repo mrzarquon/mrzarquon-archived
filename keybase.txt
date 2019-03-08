@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mrzarquon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://angrydome.org
+  * I am mrzarquon (https://keybase.io/mrzarquon) on keybase.
+  * I have a public key ASCZiwVAAR570O1h3ZMj3cDpB7EKlo_ts8IMXolOHiqdngo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010170c907557c7063c43968597e4882a276e6c36f0c1c35d5709b94e184a8774a350a",
+      "host": "keybase.io",
+      "kid": "0120998b0540011e7bd0ed61dd9323ddc0e907b10a968fedb3c20c5e894e1e2a9d9e0a",
+      "uid": "eb555d48189d3201f3acc3559a13e419",
+      "username": "mrzarquon"
+    },
+    "merkle_root": {
+      "ctime": 1552089100,
+      "hash": "40e72cf1a7d12bb9d5db0608bc3978f1041ef157b82e0219461141d7e61a895f33271ecee7ef2386d117b7deac25cbacf87a77b85eb877e0b993a58a796db727",
+      "hash_meta": "ec15201a185d9767a4851b6f133d55a3aab7a58e5dc6f01a84224a7c172b1f28",
+      "seqno": 4906268
+    },
+    "service": {
+      "entropy": "rij7OLSIEv+94OY2S2iCkpW1",
+      "hostname": "angrydome.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.0"
+  },
+  "ctime": 1552089107,
+  "expire_in": 504576000,
+  "prev": "37502eb00bdd138ff21e3c9de6413ed57987221df4f2d6209109086ea353e861",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmYsFQAEee9DtYd2TI93A6QexCpaP7bPCDF6JTh4qnZ4Kp3BheWxvYWTESpcCE8QgN1AusAvdE4/yHjyd5kE+1XmHIh308tYgkQkIbqNT6GHEIDDD3pJoqIIcPrwsJczP+V3BG50DvFmbGK7h+zpr1IVhAgHCo3NpZ8RAfGwW+Okfj3xjxPu242pU74LdFIJfLIru13KOGfwDPpJhpnNywxAjzqy8gqgt/hZeC2mbcDBW/dFjeCUDusLpBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFRmUV5qM8bv5dfRiFjzi295qhKclpZazVexE6jIyGOSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrzarquon
+
+==================================================================
